@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":231,"indent":0,"parameters":[1,"letterbox_top",0,0,0,-100,100,100,255,0]},{"code":232,"indent":0,"parameters":[1,0,0,0,0,0,100,100,255,0,30,false]},{"code":231,"indent":0,"parameters":[2,"letterbox_bottom",0,0,0,100,100,100,255,0]},{"code":232,"indent":0,"parameters":[2,0,0,0,0,0,100,100,255,0,30,true]},{"code":0,"indent":0,"parameters":[]}],"name":"startcinematicmode","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":232,"indent":0,"parameters":[1,0,0,0,0,-100,100,100,255,0,30,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,0,100,100,100,255,0,30,true]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":0,"indent":0,"parameters":[]}],"name":"endcinematicmode","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":232,"indent":0,"parameters":[1,0,0,0,0,-190,100,100,255,0,30,false]},{"code":232,"indent":0,"parameters":[2,0,0,0,0,720,100,100,255,0,30,true]},{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

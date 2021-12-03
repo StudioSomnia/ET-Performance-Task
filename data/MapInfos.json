@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":true,"name":"BusStop","order":2,"parentId":0,"scrollX":534,"scrollY":314},
+{"id":2,"expanded":false,"name":"ConvenienceStore","order":3,"parentId":1,"scrollX":712,"scrollY":465.3333333333333},
+{"id":3,"expanded":false,"name":"Tutorial","order":1,"parentId":0,"scrollX":534,"scrollY":314},
+{"id":4,"expanded":true,"name":"ApartmentLobby","order":5,"parentId":0,"scrollX":813,"scrollY":465},
+{"id":5,"expanded":false,"name":"BusRide","order":4,"parentId":1,"scrollX":722.6666666666666,"scrollY":413.3333333333333},
+{"id":6,"expanded":true,"name":"ApartmentStairs","order":6,"parentId":4,"scrollX":722.6666666666666,"scrollY":413.3333333333333},
+{"id":7,"expanded":true,"name":"ApartmentHall","order":7,"parentId":6,"scrollX":722.6666666666666,"scrollY":402.6666666666667},
+{"id":8,"expanded":false,"name":"Bathroom","order":8,"parentId":7,"scrollX":542,"scrollY":310},
+{"id":9,"expanded":true,"name":"EloiseApartment","order":9,"parentId":7,"scrollX":534,"scrollY":314},
+{"id":10,"expanded":false,"name":"BrokenApartment","order":10,"parentId":9,"scrollX":722.6666666666666,"scrollY":413.3333333333333},
+{"id":11,"expanded":true,"name":"ApartmentRoof","order":11,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":12,"expanded":false,"name":"ending","order":12,"parentId":11,"scrollX":534,"scrollY":314}
+]
